@@ -8,7 +8,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 • 🎓 Bachelor's in Technology(2022-26)
 
-• ⭐ Google Data Analytics Professional Certificate holder with expertise in data cleaning, analysis, and visualization using SQL, R, Tableau, and spreadsheets. 
+• <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="20"/> Data Analytics Professional Certificate holder with expertise in Data Cleaning, Analysis, and Visualization using SQL, R, Tableau, and Spreadsheets.
+
+• <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="20"/> Microsoft Certified: Power BI Data Analyst with expertise in MsSQL Server, Data Manipulation, Microsoft Excel.  
 
 
 ## 🛠️ Tools and Languages
@@ -26,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manav-agrawal-519519224)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalmanav1202@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)-->
 
 ---
-⭐️ From [yourusername](https://github.com/manav-agarwal12)
+⭐️ From [manav-agarwal12](https://github.com/manav-agarwal12)
